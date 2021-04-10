@@ -1,0 +1,8 @@
+assets
+build
+dist
+.buildroot-ccache
+.kernel-ccache
+.dl
+.idea
+.git
